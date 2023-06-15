@@ -6,18 +6,18 @@
 
 :root {
     --text-color:white;
-    --bg-url: url(/assests/back.jpg);
+    --bg-url: url(/Retorno/assests/back.jpg);
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color:rgba(255, 255, 255, 0.1);
-    --switch-bg-url:url(/assests/moon-stars.svg);
+    --switch-bg-url:url(/Retorno/assests/moon-stars.svg);
 }
 
 .light {
   --text-color: black;
-  --bg-url: url(/assests/back-light.jpg);
+  --bg-url: url(/Retorno/assests/back-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color:rgba(0, 0, 0, 0.05);
-  --switch-bg-url:url(/assests/sun.svg);
+  --switch-bg-url:url(/Retorno/assests/sun.svg);
 }
 
 body {
